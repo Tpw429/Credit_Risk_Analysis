@@ -11,7 +11,7 @@ For each of the six machine learning models I used I will be displaying my accur
 ## Summary
 
 * NAIVE Random Oversampling
-    * Balanced Accuracy Score: 
+    * Balanced Accuracy Score: ~ 0.6441
   
 ![NaiveRandomOversampling](Resources/NaiveRandomOversampling.PNG)
   
