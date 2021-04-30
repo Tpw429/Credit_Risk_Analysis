@@ -11,31 +11,31 @@ For each of the six machine learning models I used I will be displaying my accur
 ## Summary
 
 * NAIVE Random Oversampling
-  *
+    * Balanced Accuracy Score: 
   
 ![NaiveRandomOversampling](Resources/NaiveRandomOversampling.PNG)
   
 * SMOTE Oversampling
-  *
+  * Balanced Accuracy Score:
  
 ![SMOTEOversampling](Resources/SMOTEOversampling.PNG)
   
 * Undersampling
-  *
+  * Balanced Accuracy Score:
   
 ![Undersampling](Resources/Undersampling.PNG)
   
 * Combination (Oversampling and Undersampling)
-  *
+  * Balanced Accuracy Score:
   
 ![Combination](Resources/Combination.PNG)
   
 * Balanced Random Forest Classifier
-  *
+  * Balanced Accuracy Score:
   
 ![BalancedRandomForestClassifier](Resources/BalancedRandomForestClassifier.PNG)
   
 * Easy Ensemble AdaBoost Classifier
-  *
+  * Balanced Accuracy Score:
   
 ![EasyEnsembleAdaBoostClassifier](Resources/EasyEnsembleAdaBoostClassifier.PNG)
