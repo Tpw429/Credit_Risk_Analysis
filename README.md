@@ -12,17 +12,24 @@ For each of the six machine learning models I used I will be displaying my accur
 
 * NAIVE Random Oversampling
   *
+  ![NaiveRandomOversampling](Resources/NaiveRandomOversampling.PNG)
   
 * SMOTE Oversampling
   *
+  ![SMOTEOversampling](Resources/SMOTEOversampling.PNG)
   
 * Undersampling
   *
+  ![Undersampling](Resources/Undersampling.PNG)
+  
 * Combination (Oversampling and Undersampling)
   *
+  ![Combination](Resources/Combination.PNG)
   
 * Balanced Random Forest Classifier
   *
-
+  ![BalancedRandomForestClassifier](Resources/BalancedRandomForestClassifier.PNG)
+  
 * Easy Ensemble AdaBoost Classifier
   *
+  ![EasyEnsembleAdaBoostClassifier](Resources/EasyEnsembleAdaBoostClassifier.PNG)
