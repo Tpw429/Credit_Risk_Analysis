@@ -9,3 +9,20 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 For each of the six machine learning models I used I will be displaying my accuracy score, precision, and recall scores for each. The six models include the Naive Random Oversampling model, the SMOTE Oversampling model, an Undersampling model, a Combination model, a Balanced Random Forest Classifier model, and an Easy Ensemble AdaBoost Classifier model. The results for each of these models will be shown below.
 
 ## Summary
+
+* NAIVE Random Oversampling
+  *
+  
+* SMOTE Oversampling
+  *
+  
+* Undersampling
+  *
+* Combination (Oversampling and Undersampling)
+  *
+  
+* Balanced Random Forest Classifier
+  *
+
+* Easy Ensemble AdaBoost Classifier
+  *
