@@ -31,7 +31,7 @@ For each of the six machine learning models I used I will be displaying my accur
 ![Combination](Resources/Combination.PNG)
   
 * Balanced Random Forest Classifier
-  * Balanced Accuracy Score:
+  * Balanced Accuracy Score: ~ 0.7878
   
 ![BalancedRandomForestClassifier](Resources/BalancedRandomForestClassifier.PNG)
   
