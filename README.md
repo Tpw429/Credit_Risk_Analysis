@@ -21,12 +21,12 @@ For each of the six machine learning models I used I will be displaying my accur
 ![SMOTEOversampling](Resources/SMOTEOversampling.PNG)
   
 * Undersampling
-  * Balanced Accuracy Score: ~0.6483
+  * Balanced Accuracy Score: ~ 0.6483
   
 ![Undersampling](Resources/Undersampling.PNG)
   
 * Combination (Oversampling and Undersampling)
-  * Balanced Accuracy Score:
+  * Balanced Accuracy Score: ~ 0.5103
   
 ![Combination](Resources/Combination.PNG)
   
