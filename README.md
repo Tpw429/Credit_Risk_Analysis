@@ -16,7 +16,7 @@ For each of the six machine learning models I used I will be displaying my accur
 ![NaiveRandomOversampling](Resources/NaiveRandomOversampling.PNG)
   
 * SMOTE Oversampling
-  * Balanced Accuracy Score:
+  * Balanced Accuracy Score: ~ 0.6483
  
 ![SMOTEOversampling](Resources/SMOTEOversampling.PNG)
   
