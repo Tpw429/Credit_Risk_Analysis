@@ -40,4 +40,4 @@ For each of the six machine learning models I used I will be displaying my accur
 
 
 ## Summary
-Given the results of all six tests, we can see a clear cut best option. the Easy Ensemble Ada Boost Classifier outshined the rest of the field with a Balanced Accuracy score of ~ 0.9254 out of a perfect 1.0000. The next best model, the Combination had a Balanced Accuracy score nearly 0.2000 lower. In addition, the F1 score which tells us the percentage of positive predictions that were correct show that
+Given the results of all six tests, we can see a clear cut best option. the Easy Ensemble Ada Boost Classifier outshined the rest of the field with a Balanced Accuracy score of ~ 0.9254 out of a perfect 1.0000. The next best model, the Combination had a Balanced Accuracy score nearly 0.2000 lower. In addition, the F1 score which tells us the percentage of positive predictions that were correct show that the Easy Ensemble AdaBoost Classifier also led the field with a 0.97 score. which was higher than any other method. Because of this, it is safe to say that for our model, the Easy Ensemble AdaBoost Classifier was the best.
