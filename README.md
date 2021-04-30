@@ -36,6 +36,6 @@ For each of the six machine learning models I used I will be displaying my accur
 ![BalancedRandomForestClassifier](Resources/BalancedRandomForestClassifier.PNG)
   
 * Easy Ensemble AdaBoost Classifier
-  * Balanced Accuracy Score:
+  * Balanced Accuracy Score: ~ 0.9254
   
 ![EasyEnsembleAdaBoostClassifier](Resources/EasyEnsembleAdaBoostClassifier.PNG)
