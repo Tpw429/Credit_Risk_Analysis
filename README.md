@@ -8,8 +8,6 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 ## Results
 For each of the six machine learning models I used I will be displaying my accuracy score, precision, and recall scores for each. The six models include the Naive Random Oversampling model, the SMOTE Oversampling model, an Undersampling model, a Combination model, a Balanced Random Forest Classifier model, and an Easy Ensemble AdaBoost Classifier model. The results for each of these models will be shown below.
 
-## Summary
-
 * NAIVE Random Oversampling
     * Balanced Accuracy Score: ~ 0.6441
   
@@ -39,3 +37,7 @@ For each of the six machine learning models I used I will be displaying my accur
   * Balanced Accuracy Score: ~ 0.9254
   
 ![EasyEnsembleAdaBoostClassifier](Resources/EasyEnsembleAdaBoostClassifier.PNG)
+
+
+## Summary
+Given the results of all six tests, we can see a clear cut best option. the Easy Ensemble Ada Boost Classifier outshined the rest of the field with a Balanced Accuracy score of ~ 0.9254 out of a perfect 1.0000. The next best model, the Combination had a Balanced Accuracy score nearly 0.2000 lower. In addition, the F1 score which tells us the percentage of positive predictions that were correct show that
